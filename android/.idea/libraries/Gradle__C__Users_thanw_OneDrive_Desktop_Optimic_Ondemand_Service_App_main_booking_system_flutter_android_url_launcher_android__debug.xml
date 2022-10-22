@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: C:\Users\thanw\OneDrive\Desktop\Optimic\Ondemand_Service_App-main\booking_system_flutter\android:url_launcher_android::debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../src/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.19/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../../src/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.19/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../../src/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.19/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
