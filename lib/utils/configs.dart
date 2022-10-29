@@ -5,9 +5,9 @@ const DEFAULT_LANGUAGE = 'en';
 const DOMAIN_URL = 'https://ondemandservice.optimisttechhub.com';
 const BASE_URL = '$DOMAIN_URL/api/';
 
-const ONESIGNAL_APP_ID = '01e97a22-4721-475e-a96d-62948ebfbaf4';
-const ONESIGNAL_CHANNEL_ID = "0ee01f0d-2e1c-4554-9050-27dd9c020292";
-const ONESIGNAL_REST_KEY = "NzFhNDZjYTEtOWUzYS00NzgxLThlZDktODYyYWZmOTQ1ODJk";
+const ONESIGNAL_APP_ID = '0f9ce468-5755-4ebf-bebf-e9ab7ad25ef1';
+const ONESIGNAL_CHANNEL_ID = "42976ddb-a46f-468a-bff8-51638b174633";
+const ONESIGNAL_REST_KEY = "NjFjMGI0OGMtODA1MS00NzY1LTg0MWUtNjVmMzQwZjQ4OWJi";
 
 // const TERMS_CONDITION_URL = 'https://iqonic.design/terms-of-use/';
 // const PRIVACY_POLICY_URL = 'https://iqonic.design/privacy-policy/';
